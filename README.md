@@ -1,6 +1,8 @@
 # Handwriting Digit Recognition
 This project enables the recognition of handwritten digits using TensorFlow and Tkinter libraries with mnist dataset. After drawing a digit on the Tkinter interface, the TensorFlow model is used to predict the drawn digit.
 
+I used **CNNs** (Convolutional Neural Networks) and **data augmentation** techniques to get high val-accuracy result.
+
 ## Preview
 https://github.com/BurakAhmet/Hand-Writing-Digit-Recognition/assets/89780902/bb9a05ea-e746-45fa-a76c-be1dc44fb1ad
 
