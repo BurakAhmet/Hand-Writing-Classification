@@ -4,7 +4,9 @@ This project enables the recognition of handwritten digits using TensorFlow and 
 I used **CNNs** (Convolutional Neural Networks) and **data augmentation** techniques to get high val-accuracy result.
 
 ## Preview
-https://github.com/BurakAhmet/Hand-Writing-Digit-Recognition/assets/89780902/bb9a05ea-e746-45fa-a76c-be1dc44fb1ad
+https://github.com/BurakAhmet/Handwriting-Digit-Recognition/assets/89780902/0e31bbf3-eae2-4f34-85c3-37c3b1cf0986
+
+
 
 ## Model
 I used CNN (Convolutional Neural Networks) and data augmentation techniques in my model
