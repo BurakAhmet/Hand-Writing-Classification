@@ -23,3 +23,4 @@ Final validation accuracy: **0.9948**
 * TensorFlow: Used for training the data, loading pre-trained models and making predictions.
 * NumPy: Employed for array manipulation and normalization of input data.
 * Tkinter: Utilized for creating the user interface (canvas).
+* Google Colab: Used for fast model training with GPUs.
