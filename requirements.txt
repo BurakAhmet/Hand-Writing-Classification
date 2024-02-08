@@ -1,0 +1,4 @@
+PIL
+tensorflow
+numpytkinter
+numpy
