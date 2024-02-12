@@ -39,7 +39,7 @@ def predict_digit():
     x1 = x + canvas.winfo_width()
     y1 = y + canvas.winfo_height()
 
-    # There are a buggy area here
+    # There is a buggy area here
     # When I try to capture the canvas image sometimes it captures wrong places.
     # So I tried to fix it manually but, it still doesn't work perfect:(
     img = ImageGrab.grab((x+31, y+38, x1, y1))
